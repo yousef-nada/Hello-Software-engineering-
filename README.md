@@ -1,17 +1,17 @@
-**sprint** **0**
-	
+				**SPRINT ZERO**
 
 
-	This repo contains information and guidance on 3 main topics :
-- version control
-- branches in a nutshell
--distrbuted workflow 
+What's in here?
 
-
-*Author*: Yousef Hamdy 37-5797
+info about three very important topics regarding git and getting started with it
+		-About Version Control
+		-Branches in a Nutshell	
+		-Distributed Workflows
 
 
 
-					Acknowledgments
- book Chacon, Scott, and Ben Straub. Pro Git. Apress,
-2014.
+Author: **Yousef** **Hamdy (37-5797)
+
+
+Acknowledgments:
+	Book Chacon, Scott, and Ben Straub. Pro Git. Apress,2014
