@@ -1,0 +1,756 @@
+the commands here are missing some as i've expirmnted and done a lot of other comannds in bettwen
+this a record of most of the commands and i'll be including a copy of the terminal,
+
+
+git add 
+git status
+git add 
+git status
+git rm
+git add
+git rm 3.1.....
+git checkout 3.1...
+git add
+git commit -m 
+git status 
+git reset head 
+git commit -m
+git push
+git remote orginyousef
+git remote
+git push -u orginyousef. master 
+git rm README.md
+git status
+git commit -m
+git status
+git status
+git branch Readme
+git branch 
+git checkout read me 
+// resolving the confilct in merge forgot to manually record commands //
+merge readmme
+ls
+
+
+
+
+
+
+the terminal :
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~ (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   Desktop/123/Hello-Software-engineering- (new commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        .bash_history
+        .gitconfig
+        .viminfo
+        1.1 Getting Started - About Version Control.docx
+        3.1 Git Branching - Branches in a Nutshell.docx
+        3D Objects/
+        5.1 Distributed Git - Distributed Workflows.docx
+        AppData/
+        Contacts/
+        Desktop/1.1.docx
+        Desktop/1.3.txt
+        Desktop/1.PNG
+        Desktop/123456.PNG
+        Desktop/14068589_1063566633735059_1033081953782261568_o-e1472152602644-8                                          90x1024.jpg
+        Desktop/2.PNG
+        Desktop/22.PNG
+        Desktop/3.1.docx
+        Desktop/43d20b2b19cd556e917a5f6e67cfa7bd--best-suv-lada-niva.jpg
+        Desktop/5.1.docx
+        Desktop/5.1.txt
+        Desktop/695407fa-097f-4bca-a970-7997b659eb9b.jpg
+        Desktop/80b58d69-879b-4a1f-b131-76c16b757672.jpg
+        Desktop/Access 2016.lnk
+        Desktop/AllMyCommands.txt
+        Desktop/Anghami.lnk
+        Desktop/Capture.PNG
+        Desktop/Excel 2016.lnk
+        Desktop/Mr. hamdy order (1).pdf
+        Desktop/New Microsoft PowerPoint Presentation.pptx
+        Desktop/New Microsoft Word Document.docx
+        Desktop/New folder/
+        Desktop/OneDrive for Business.lnk
+        Desktop/OneNote 2016.lnk
+        Desktop/PRICE QUOTE citystars.pdf
+        Desktop/PRICE QUOTE.docx
+        Desktop/PRICE QUOTE0.2.pdf
+        Desktop/PowerPoint 2016.lnk
+        Desktop/Price Quote.added dim.pdf
+        Desktop/Publisher 2016.lnk
+        Desktop/RM/
+        Desktop/Slack.lnk
+        Desktop/The.Shawshank.Redemption.5.1.EnSub.1994BD1080p_SharePirate.srt
+        Desktop/Untitled-1.pdf
+        Desktop/Windows 10 Update Assistant.lnk
+        Desktop/Word 2016.lnk
+        Desktop/all my terminal.txt
+        Desktop/audting/
+        Desktop/d28a0219-2ed9-45ae-a280-b234c79f227d.jpg
+        Desktop/d9fedeaf277423c32096037e308bcfb1--lada-niva-off-road-racing-team                                          .jpg
+        Desktop/data base/
+        Desktop/desktop.ini
+        Desktop/ee6521fc-5116-4cf0-9649-9f061aa3a768.jpg
+        Desktop/file to be removed.txt
+        Desktop/final draft.docx
+        Desktop/finance/
+        Desktop/furnex Catalogue Entry  2018 (1.0).doc
+        Desktop/furnex Catalogue Entry  2018 (1.1).doc
+        Desktop/hello-SE/
+        Desktop/inspo.txt
+        Desktop/methodolgyyyyy.docx
+        Desktop/oper per.pptx
+        Desktop/outline.docx
+        Desktop/ref.docx
+        Desktop/share/
+        Desktop/sign.PNG
+        Desktop/soura.PNG
+        Desktop/sourq 2.PNG
+        Desktop/theory/
+        "Desktop/\330\247\331\203\330\263\331\204 \331\205\330\255\330\257\330\2                                          53 .2.xlsx"
+        "Desktop/\330\267\330\250\330\247\330\271\331\207 24-12/"
+        Documents/
+        Downloads/
+        Evernote/
+        Favorites/
+        Hello-Software-engineering-/
+        IntelGraphicsProfiles/
+        Links/
+        MicrosoftEdgeBackups/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{f46bd737-e06b-11e7-acdd-308d991dc293}.TM.blf
+        NTUSER.DAT{f46bd737-e06b-11e7-acdd-308d991dc293}.TMContainer000000000000                                          00000001.regtrans-ms
+        NTUSER.DAT{f46bd737-e06b-11e7-acdd-308d991dc293}.TMContainer000000000000                                          00000002.regtrans-ms
+        OneDrive/
+        Pictures/
+        Saved Games/
+        Searches/
+        Videos/
+        "add\357\200\252"
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~ (master)
+$ pwd
+/c/Users/NEW
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~ (master)
+$ cd Desktop
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop (master)
+$ cd 123
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123 (master)
+$ cd Hello-Software-engineering-
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'   README.md
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git remote add orginyousef https://github.com/yousef-nada/Hello-Software-engineering-.git                               
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git remote
+orginyousef
+origin
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git push -u orginyousef master
+
+
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 283 bytes | 283.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/yousef-nada/Hello-Software-engineering-.git
+   cd4eb10..dc87233  master -> master
+Branch 'master' set up to track remote branch 'master' from 'orginyousef'.
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'   AllMyCommands.txt
+'3.1 Git Branching - Branches in a Nutshell.docx'    README.md
+'5.1 Distributed Git - Distributed Workflows.docx'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ s
+bash: s: command not found
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'   AllMyCommands.txt
+'3.1 Git Branching - Branches in a Nutshell.docx'    README.md
+'5.1 Distributed Git - Distributed Workflows.docx'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git rm README.md
+rm 'README.md'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is up to date with 'orginyousef/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        deleted:    README.md
+
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'
+'3.1 Git Branching - Branches in a Nutshell.docx'
+'5.1 Distributed Git - Distributed Workflows.docx'
+ AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git add .
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git commit -m "deleting the readme file that was already made when creating t                                           he repo on github.com"
+[master 73065c9] deleting the readme file that was already made when creating t                                           he repo on github.com
+ 1 file changed, 2 deletions(-)
+ delete mode 100644 README.md
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git add .
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   README.md
+
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'   AllMyCommands.txt
+'3.1 Git Branching - Branches in a Nutshell.docx'    README.md
+'5.1 Distributed Git - Distributed Workflows.docx'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   README.md
+
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git commit -m "adding the READ.MD that i created insted of the one that was a                                           utomaticlly created in the creation of this repo"
+[master 803850d] adding the READ.MD that i created insted of the one that was a                                           utomaticlly created in the creation of this repo
+ 1 file changed, 17 insertions(+)
+ create mode 100644 README.md
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git rm README.md
+rm 'README.md'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        deleted:    README.md
+
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git reset HEAD <README.md>
+bash: syntax error near unexpected token `newline'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git reset HEAD README.md
+Unstaged changes after reset:
+D       README.md
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        deleted:    README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'
+'3.1 Git Branching - Branches in a Nutshell.docx'
+'5.1 Distributed Git - Distributed Workflows.docx'
+ AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git checkout HEAD
+D       README.md
+Your branch is ahead of 'orginyousef/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ LS
+'1.1 Getting Started - About Version Control.docx'
+'3.1 Git Branching - Branches in a Nutshell.docx'
+'5.1 Distributed Git - Distributed Workflows.docx'
+ AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git checkout HEAD README.md
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'   AllMyCommands.txt
+'3.1 Git Branching - Branches in a Nutshell.docx'    README.md
+'5.1 Distributed Git - Distributed Workflows.docx'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git rm README.md
+rm 'README.md'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'
+'3.1 Git Branching - Branches in a Nutshell.docx'
+'5.1 Distributed Git - Distributed Workflows.docx'
+ AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git branch
+* master
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git branch cat
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git branch
+  cat
+* master
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git branch -d cat
+Deleted branch cat (was 803850d).
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git branch
+* master
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git branch ReadMe
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git branch
+  ReadMe
+* master
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git checkout ReadMe
+Switched to branch 'ReadMe'
+D       README.md
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git branch
+* ReadMe
+  master
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git add Desktop/README.md
+fatal: pathspec 'Desktop/README.md' did not match any files
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ pwd
+/c/Users/NEW/Desktop/123/Hello-Software-engineering-
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ cd
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~ (master)
+$ pwd
+/c/Users/NEW
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~ (master)
+$ cd /c/Users/NEW/Desktop/123/Hello-Software-engineering-
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ cd..
+bash: cd..: command not found
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ cd Desktop
+bash: cd: Desktop: No such file or directory
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ cd
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~ (master)
+$ cd Desktop
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop (master)
+$ git add README.md
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop (master)
+$ cd ^C
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop (master)
+$ cd /Desktop/123/Hello-Software-engineering-
+bash: cd: /Desktop/123/Hello-Software-engineering-: No such file or directory
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop (master)
+$ cd 123
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123 (master)
+$ cd Hello-Software-engineering-
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git status
+On branch ReadMe
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        deleted:    README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        README.md
+
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git branch
+* ReadMe
+  master
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git add .
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git status
+On branch ReadMe
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   README.md
+
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git commit -m "this is the commit when i add the readme file to the branch right b4 i do the final merge "
+[ReadMe 1814424] this is the commit when i add the readme file to the branch right b4 i do the final merge
+ 1 file changed, 10 insertions(+), 10 deletions(-)
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git status
+On branch ReadMe
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'   README.md
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git branch master
+fatal: A branch named 'master' already exists.
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'orginyousef/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'   README.md
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git rm README.md
+rm 'README.md'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git checkout ReadMe
+error: Your local changes to the following files would be overwritten by checkout:
+        README.md
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git commit -m "trying to remove read me from the master branch so when i merge its all right"
+[master 6908360] trying to remove read me from the master branch so when i merge its all right
+ 1 file changed, 17 deletions(-)
+ delete mode 100644 README.md
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git checkout ReadMe
+Switched to branch 'ReadMe'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'   README.md
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'orginyousef/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git checkout ReadME
+Switched to branch 'ReadME'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadME)
+$ git status
+On branch ReadME
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadME)
+$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'orginyousef/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git merge ReadMe
+CONFLICT (modify/delete): README.md deleted in HEAD and modified in ReadMe. Version ReadMe of README.md left in tree.
+Automatic merge failed; fix conflicts and then commit the result.
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master|MERGING)
+$ git checkout ReadMe
+error: you need to resolve your current index first
+README.md: needs merge
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master|MERGING)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add/rm <file>..." as appropriate to mark resolution)
+
+        deleted by us:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master|MERGING)
+$ git merge --abort
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git checkout ReadMe
+Switched to branch 'ReadMe'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git add .
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git staus
+git: 'staus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git status]
+git: 'status]' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git status
+On branch ReadMe
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git commit
+On branch ReadMe
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'orginyousef/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git add .
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git status
+On branch master
+Your branch is ahead of 'orginyousef/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git merge ReadMe
+CONFLICT (modify/delete): README.md deleted in HEAD and modified in ReadMe. Version ReadMe of README.md left in tree.
+Automatic merge failed; fix conflicts and then commit the result.
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master|MERGING)
+$ git merge --abort
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git checkout ReadMe
+Switched to branch 'ReadMe'
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'   README.md
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git merge master
+CONFLICT (modify/delete): README.md deleted in master and modified in HEAD. Version HEAD of README.md left in tree.
+Automatic merge failed; fix conflicts and then commit the result.
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe|MERGING)
+$ git add README.md
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe|MERGING)
+$ git commit -m "finally! merge between the master and read me brach are done and the README.md file is added to the finalmerge"
+[ReadMe 53c59a2] finally! merge between the master and read me brach are done and the README.md file is added to the finalmerge
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git status
+On branch ReadMe
+nothing to commit, working tree clean
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git ls
+git: 'ls' is not a git command. See 'git --help'.
+
+The most similar command is
+        lfs
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'   README.md
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (ReadMe)
+$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'orginyousef/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git merge ReadMe
+Updating 6908360..53c59a2
+Fast-forward
+ README.md | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+ create mode 100644 README.md
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ ls
+'1.1 Getting Started - About Version Control.docx'  '5.1 Distributed Git - Distributed Workflows.docx'   README.md
+'3.1 Git Branching - Branches in a Nutshell.docx'    AllMyCommands.txt
+
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$ git int
