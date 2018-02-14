@@ -1,4 +1,4 @@
-				**SPRINT ZERO**
+				**SPRINT** **ZERO**
 
 
 What's in here?
@@ -10,7 +10,7 @@ info about three very important topics regarding git and getting started with it
 
 
 
-Author: **Yousef** **Hamdy (37-5797)
+Author: **Yousef** **Hamdy** (37-5797)
 
 
 Acknowledgments:
