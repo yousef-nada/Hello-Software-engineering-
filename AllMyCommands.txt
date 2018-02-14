@@ -1,37 +1,339 @@
 the commands here are missing some as i've expirmnted and done a lot of other comannds in bettwen
 this a record of most of the commands and i'll be including a copy of the terminal,
 
+ 1  git int
+    2  git init
+    3  git clone https://github.com/yousef-nada/Hello-Software-engineering-.git
+    4  git status
+    5  git add
+    6  git add.
+    7  git add .
+    8  git status '
+    9  git status
+   10  git init
+   11  git add .
+   12  git init
+   13  git status
+   14  git add .
+   15  git init
+   16  git add .
+   17  git colne https://github.com/yousef-nada/Hello-Software-engineering-.git
+   18  git clone https://github.com/yousef-nada/Hello-Software-engineering-.git
+   19  git status
+   20  git add
+   21  git add .
+   22  git add <1.1 Getting Started - About Version Control>
+   23   git add <1.1 Getting Started - About Version Control>
+   24   git add <1.1 Getting Started - About Version Control>
+   25  git add <<1.1 Getting Started - About Version Control>
+   26  git add*
+   27  git init
+   28  git add <1.1 Getting Started - About Version Control> git add*
+   29  git add <5.1 Distributed Git - Distributed Workflows>
+   30  git add <5.1 Distributed Git - Distributed Workflows> add*
+   31  git add <5.1 Distributed Git - Distributed Workflows.docx> add*
+   32  pwd
+   33  cd ~
+   34  pwd
+   35  cd --
+   36  ls
+   37  add <'1.1 Getting Started - About Version Control.docx'>
+   38  add <'1.1 getting started - about version control.docx'> add*
+   39  add <'1.1 getting started - about version control .docx'> add *
+   40  cd new folder
+   41  cd New folder
+   42  ls
+   43  cd desktop
+   44  cd 123
+   45  pwd
+   46  colne https://github.com/yousef-nada/Hello-Software-engineering-.git
+   47  clone https://github.com/yousef-nada/Hello-Software-engineering-.git
+   48  git clone https://github.com/yousef-nada/Hello-Software-engineering-.git
+   49  pwd
+   50  add <1.1.docx> add *
+   51  git add <1.1> add *
+   52  git add <1.1.docx> add *
+   53  git rm --cached desktop/123/hello-software-engineering-
+   54   git rm --cached Desktop/123/Hello-Software-engineering-
+   55  CD ..
+   56  cd..
+   57  cd ..
+   58  cd hello-se
+   59  git init
+   60  pwd
+   61  ls
+   62  ls - la
+   63  ls -la
+   64  cd..
+   65  cd ..
+   66  cd 123
+   67  ls
+   68  cd hello-software-engineering-
+   69  ls
+   70  add .
+   71  git add .
+   72  git status
+   73  git add .
+   74  git status
+   75  ls
+   76  git reset HEAD <3.1 Git Branching - Branches in a nutshell.docx>
+   77  git reset HEAD <'3.1 Git Branching - Branches in a Nutshell.docx'>
+   78  git reser HEAD <3.1 Git Branching - Branches in a Nutshell>
+   79  git reset HEAD <3.1 Git Branching - Branches in a Nutshell>
+   80  git status
+   81  git ls
+   82  ls
+   83  status
+   84  git status
+   85  git add .
+   86  git status
+   87  git rm file to be removed.txt
+   88  git rm file to be removed.txt
+   89  git status
+   90  git add .
+   91  git status
+   92  git rm remove.txt
+   93  git rm--f remove
+   94  git rm-f remove.txt
+   95  git rm remove.txt
+   96  git rm remove.txt
+   97  git add .
+   98  git stuts
+   99  git status
+  100  git reset HEAD <remove.txt>
+  101  git status
+  102  lls
+  103  ls
+  104  git -rm remove.txt
+  105  git help
+  106  git rm remove.txt
+  107  git status
+  108  git rm remove.txt
+  109  git reset Head remove.txt
+  110  git status
+  111  git rm remove.txt
+  112  ls
+  113  git rm remove.txt
+  114  git status
+  115  git rm --cached remove.txt
+  116  git commit
+  117  git config
+  118  git config --global user.name "yousef-nada"
+  119  git commit
+  120  git config --global user.name "yousef-nada"
+  121  git commit
+  122  git config--global user.email"yhamdy65@gmail.com"
+  123  git config --global user.email "yhamdy65
+  124   git config --global user.email "yhamdy65
+  125   git config --global user.email "yhamdy65
+  126  git config --global user.email "yhamdy65@gmail.com"
+  127   git config --global user.email "yhamdy65@gmail.com"
+  128  git commit
+  129  git commit -m "this is my frist commit from the command line"
+  130  git status
+  131  cd
+  132  pwd
+  133  cd desktop
+  134  cd 123
+  135  dc hello-software-engeneering-
+  136  dc /c/Users/NEW/Desktop/123/Hello-Software-engineering-
+  137  cd /c/Users/NEW/Desktop/123/Hello-Software-engineering-
+  138  commit -m "this is my 2nd commit ever"
+  139  git commit -m "this is my 2nd commit"
+  140  git status
+  141  git add.
+  142  git add .
+  143  git status
+  144  ls
+  145  git rm remove
+  146  git rm remove.txt
+  147  git rm --cached remove.txt
+  148  git status
+  149  git add .
+  150  git status
+  151  git rm --cached remove.txt
+  152  git status
+  153  git commit
+  154  git status
+  155  git add .
+  156  git status
+  157  git rm --cached remove.txt
+  158  git status
+  159  git status
+  160  git add .
+  161  git status
+  162  ls
+  163  git status
+  164  git add .
+  165  git rm --cached 3.1 git Branching - branches in a nutshell.docx
+  166  git rm --cached 3.1 Git Branching - Branches in a Nutshell.docx
+  167  git rm --cached allmycommands
+  168  git status
+  169  git add .
+  170  git status
+  171  git add .
+  172  git ls
+  173  ls
+  174  gir rm --cached README.md
+  175  git rm --cached README.md
+  176  git status
+  177  git add .
+  178  git status
+  179  git ls
+  180  ls
+  181  git commit
+  182  git rm --cached '3.1 Git Branching - Branches in a Nutshell.docx'
+  183  git status
+  184  git add .
+  185  git status
+  186  ls
+  187  git status
+  188  git commit -m "the 3rd commit after unstageing 3.1 branching"
+  189  git status
+  190  git rm '3.1 Git Branching - Branches in a nutshell.docx'
+  191  git rm '3.1 Git Branching - Branches in a Nutshell.docx'
+  192  git status
+  193  git reset HEAD
+  194  git status
+  195  git checkout HEAD path/to/file
+  196  git chechout HEAD Desktop/123/Hello-Software-engineering-/3.1 Git Branching - Branches in a Nutshell
+  197  git checkout HEAD Desktop/123/Hello-Software-engineering-/3.1 Git Branching - Branches in a Nutshell
+  198  git checkout HEAD Desktop/123/Hello-Software-engineering-/'3.1 Git Branching - Branches in a Nutshell'
+  199  git checkout HEAD '3.1 Git Branching - Branches in a Nutshell.docx'
+  200  git status
+  201  ls
+  202  git add .
+  203  git rm '3.1 Git Branching - Branches in a Nutshell.docx'
+  204  git checkout '3.1 Git Branching - Branches in a Nutshell.docx'
+  205  $ git checkout HEAD '3.1 Git Branching - Branches in a Nutshell.docx'
+  206  git status
+  207  git reset HEAD
+  208  $ git checkout HEAD '3.1 Git Branching - Branches in a Nutshell.docx'
+  209   git checkout HEAD '3.1 Git Branching - Branches in a Nutshell.docx'
+  210  ls
+  211  git commit -m " created 3 files about parts from the book, delted part 3.1 as to learn how to delete and learn undoing deletions, then this commit is the full 3 files"
+  212  git push
+  213  git status
+  214  pwd
+  215  cd Desktop
+  216  cd 123
+  217  cd Hello-Software-engineering-
+  218  git status
+  219  ls
+  220  git remote add orginyousef https://github.com/yousef-nada/Hello-Software-engineering-.git
+  221  git remote
+  222  git push -u orginyousef master
+  223  ls
+  224  s
+  225  ls
+  226  git rm README.md
+  227  git status
+  228  ls
+  229  git add .
+  230  git commit -m "deleting the readme file that was already made when creating the repo on github.com"
+  231  git status
+  232  git add .
+  233  git status
+  234  ls
+  235  git status
+  236  git commit -m "adding the READ.MD that i created insted of the one that was automaticlly created in the creation of this repo"
+  237  git status
+  238  git rm README.md
+  239  git status
+  240  git reset HEAD <README.md>
+  241  git reset HEAD README.md
+  242  git status
+  243  ls
+  244  git checkout HEAD
+  245  LS
+  246  git checkout HEAD README.md
+  247  git status
+  248  ls
+  249  git rm README.md
+  250  ls
+  251  git branch
+  252  git branch cat
+  253  git branch
+  254  git branch -d cat
+  255  git branch
+  256  git branch ReadMe
+  257  git branch
+  258  git checkout ReadMe
+  259  git branch
+  260  git add Desktop/README.md
+  261  pwd
+  262  cd
+  263  pwd
+  264  cd /c/Users/NEW/Desktop/123/Hello-Software-engineering-
+  265  cd..
+  266  cd Desktop
+  267  cd
+  268  cd Desktop
+  269  git add README.md
+  270  cd /Desktop/123/Hello-Software-engineering-
+  271  cd 123
+  272  cd Hello-Software-engineering-
+  273  ls
+  274  git status
+  275  git branch
+  276  git add .
+  277  git status
+  278  git commit -m "this is the commit when i add the readme file to the branch right b4 i do the final merge "
+  279  git status
+  280  ls
+  281  git branch master
+  282  git checkout master
+  283  ls
+  284  git rm README.md
+  285  git checkout ReadMe
+  286  git commit -m "trying to remove read me from the master branch so when i merge its all right"
+  287  git checkout ReadMe
+  288  ls
+  289  git checkout master
+  290  ls
+  291  git checkout ReadME
+  292  git status
+  293  git checkout master
+  294  git status
+  295  git merge ReadMe
+  296  git checkout ReadMe
+  297  git status
+  298  git merge --abort
+  299  git checkout ReadMe
+  300  git add .
+  301  git staus
+  302  git status]
+  303  git status
+  304  git commit
+  305  git checkout master
+  306  git add .
+  307  git status
+  308  git merge ReadMe
+  309  git merge --abort
+  310  ls
+  311  git checkout ReadMe
+  312  ls
+  313  git merge master
+  314  git add README.md
+  315  git commit -m "finally! merge between the master and read me brach are done and the README.md file is added to the finalmerge"
+  316  git status
+  317  git ls
+  318  ls
+  319  git checkout master
+  320  ls
+  321  git merge ReadMe
+  322  ls
+  323  ls
+  324  git status
+  325  git add AllMyCommands.txt
+  326  git status
+  327  git commit -m " the individual part is done, i supose? "
+  328  git status
+  329  git push
+  330  history
 
-git add 
-git status
-git add 
-git status
-git rm
-git add
-git rm 3.1.....
-git checkout 3.1...
-git add
-git commit -m 
-git status 
-git reset head 
-git commit -m
-git push
-git remote orginyousef
-git remote
-git push -u orginyousef. master 
-git rm README.md
-git status
-git commit -m
-git status
-git status
-git branch Readme
-git branch 
-git checkout read me 
-// resolving the confilct in merge forgot to manually record commands //
-merge readmme
-ls
-
-
+NEW@DESKTOP-O1LJN7R MINGW64 ~/Desktop/123/Hello-Software-engineering- (master)
+$
 
 
 
